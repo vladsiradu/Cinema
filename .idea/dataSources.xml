@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="532753134">
+    <data-source source="LOCAL" name="Rails Cinema: development" uuid="3d9944c3-b6dd-4e7e-ac34-4b74d37e78b2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Cinema_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc1dfd8dfcbdfdedfc5dfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Cinema: test" uuid="f39b7f9f-6c40-4349-b492-d0c9d97cecf4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Cinema_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc1dfd8dfcbdfdedfc5dfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Cinema: production" uuid="ac69dcb4-e47d-42a8-b5ce-dbbf22da3589">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Cinema_production</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc1dfd8dfcbdfdedfc5dfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

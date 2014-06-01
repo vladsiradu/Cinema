@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails Cinema: development" uuid="3d9944c3-b6dd-4e7e-ac34-4b74d37e78b2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails Cinema: test" uuid="f39b7f9f-6c40-4349-b492-d0c9d97cecf4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails Cinema: production" uuid="ac69dcb4-e47d-42a8-b5ce-dbbf22da3589">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
